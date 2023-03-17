@@ -76,14 +76,26 @@ Exploratory Data Analysis on the dataset of the Indian Premier League. Found the
 
 <br>
 
-### 8. Matches Won by Teams <br>
+### 8. Top 10 Player's Total Runs by Run Type for each Match <br>
+<br>
+
+![op11](https://user-images.githubusercontent.com/73981055/225987490-b2842f12-231e-4037-b76e-539204190dfc.png)
+
+> Inferences:
+> - Kohli, Raina, and Warner have shown consistency in scoring runs across all types of runs, including 1s, 2s, 3s, 4s, and 6s.
+> - S Dhawan demonstrated consistent scoring of 4s throughout the series.
+> - Gambhir's scoring of 4s and 6s reduced in the latter part of the series.
+
+<br>
+
+### 9. Matches Won by Teams <br>
 <br>
 
 ![op8](https://user-images.githubusercontent.com/73981055/225983870-89512226-78ac-4410-94ac-8d6b99817a26.PNG)
 
 <br>
 
-### 9. Total number of matches won by teams when they won toss. <br>
+### 10. Total number of matches won by teams when they won toss. <br>
 <br>
 
 ![op9](https://user-images.githubusercontent.com/73981055/225983874-e33328a0-8d88-4ec6-9ebd-a79114ba8a0b.PNG)
